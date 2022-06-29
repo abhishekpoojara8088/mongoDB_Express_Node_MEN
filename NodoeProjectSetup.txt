@@ -1,0 +1,24 @@
+1) Create seprate folder for practice of node project.
+
+2) Open the same folder in visual studo code.
+
+3) Fire the command in new terminal: npm init
+   npm init creates package.json file.
+
+4) install basic packages:
+	4.1) npm install mongoose
+	4.2) npm install express
+	4.3) npm install body-parser
+	4.4) npm install router
+	4.5) npm install path
+	4.6) npm install express-handler
+	
+5) To install all packages from ready made package.json file: npm install
+
+6) Create 4 folders:
+	6.1) model
+	6.2) views
+	6.3) controller
+	6.4) constants
+
+7) Create one .js file named server.js in root folder of project. 
